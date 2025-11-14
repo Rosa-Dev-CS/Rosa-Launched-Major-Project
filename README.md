@@ -4,6 +4,7 @@ Project Objectives:
 3. Provide an interactive and community-driven experience through custom clubs.
 4. Ensure a smooth and responsive user interface.
 5. Implement AI-powered recommendations based on user preferences.
+   
 Core Features Developed:
 1. Menu Categories: Users can organize shows under:
 o All
@@ -24,11 +25,5 @@ o Plan to Watch
 11. Tags & Filters: Users can filter by genre, language, release year, etc.
 12. Analytics Dashboard: Graphs and insights on watch history and time spent.
 13. Admin Panel: Web-based control panel for managing discussions and user interactions.
-
 14. Web Optimization: Ensuring fast performance and cross-browser compatibility.
-Deliverables:
-• Fully Functional WebApp
-• Backend Database for User Data
-• Responsive UI/UX Design
-• Admin Control Panel
-• User Documentation & Help Section
+
